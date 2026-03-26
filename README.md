@@ -1,27 +1,29 @@
 # LAB-4-Hospital-Management
-# NAME : AKSHAYAA M T
-# REGISTER NUMBER : 212223110002
-# DATE : 
-### AIM:
+# NAME: AKSHAYAA M T
+# REG.NO: 212223110002
+## AIM:
 To develop the Hospital management System using Star UML tool.
-### PROBLEM STATEMENT:
+## PROBLEM STATEMENT:
 It is very imporatant to maintain efficient software to handle information of a hospital.
 This application provides a way to record this information and to access these in a simple way.
+## UML DIAGRAMS:
+# USE CASE:
+<img width="1095" height="943" alt="image" src="https://github.com/user-attachments/assets/4a87b51a-250c-42e1-8a17-7255bf813748" />
 
-### UML DIAGRAMS:
-## Usecase Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/46eae1cd-9591-405e-8a0e-c9df59782282)
-## Sequence Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/eea13653-110d-43a3-9f39-bda0e7c0db41)
-## Statechart Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/9f1680e9-7e07-4654-8e22-84a0980b7672)
-## Class Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/b7a8869f-13a5-41f0-8eb0-2575af96fc69)
-## Activity Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/921042da-2023-4388-beea-150d4d5de45a)
-## Communication Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/d01ed0aa-279d-4456-9a94-050f5a6f10d5)
-## Package Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/6ad8b234-e206-45a7-920c-762446d933af)
+# CLASS:
+<img width="1141" height="842" alt="image" src="https://github.com/user-attachments/assets/bf486fd4-9028-4f88-a25f-3e75b0273638" />
+
+# COMMUNICATION:
+<img width="1063" height="883" alt="image" src="https://github.com/user-attachments/assets/bfbc441a-70ae-4848-9a83-f3df9fb47ba3" />
+
+# SEQUENCE:
+<img width="1029" height="910" alt="image" src="https://github.com/user-attachments/assets/e50ff82c-fe8c-460e-a5d0-d1e112169532" />
+
+# ACTIVITY:
+<img width="836" height="980" alt="image" src="https://github.com/user-attachments/assets/aad7760e-0094-4af2-abbb-2d1cde624452" />
+
+# PACKAGE:
+<img width="1111" height="943" alt="image" src="https://github.com/user-attachments/assets/ef3b87f1-b5f5-4d27-b063-683818a1d0b0" />
+
 ### RESULT:
 Thus the Hospital management System project was executed and the output was verified.
